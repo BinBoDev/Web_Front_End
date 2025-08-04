@@ -1,1 +1,5 @@
 1.Đẩy dự án lên GitHub
+-tạo một Repo trên GitHub
+-Mở teminal trong workspace ➡️git init ➡️ git add .➡️git commit ➡️git branch -M main ➡️git remote add origin https://github.com/BinBoDev/Web_Front_End.git➡️git push -u origin main
+
+
