@@ -1,0 +1,37 @@
+https://www.submarinecablemap.com
+Mô hình client - Serve
+DNS Domain name System
+Check IP Domain
+Static Web và Dynamic Web
+Front End và Back End
+Cài đặt các Extension cần lập trình Web
+Font 
+Mở chọn trình duyệt
+Kéo thả mở song song
+https://Wen.Archive.org lưu chữ Web ➡️có thể xem lịch sử của Web
+Các công cụ hỗ trợ
+🐞Tự động hỗ trợ định dạng code ➡️ prettier
+-Setting ➡️ default format ➡️Prettier
+                           ➡️Auto Save ➡️On Forcus Change
+                           ➡️ format on Save
+🐞Icon Thame VS Code ➡️material Icon Thame 
+🐞Image preview
+🐞Color hightlight
+🐞Auto rename Tag
+🐞Live Server
+🐞Live Server preview ➡️f1 ➡️Show live Serve
+🐞Check spell
+🐞HTML Tag Wrap ➡️ chèn thẻ vào khối (ALT + W)
+🐞HTML to CSS auto
+🐞Cài Extension Offline
+Download về máy ➡️Setting ➡️...➡️instll from VSIX....
+
+HTML CSS JS là gì?
+🐞HTML đánh dấu,không phải ngôn ngữ lập trình
+🐞Web : Codepen.io Demo Online không phải cài đặt.
+
+
+
+
+
+
