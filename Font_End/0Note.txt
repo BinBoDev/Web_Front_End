@@ -29,8 +29,19 @@ Download về máy ➡️Setting ➡️...➡️instll from VSIX....
 HTML CSS JS là gì?
 🐞HTML đánh dấu,không phải ngôn ngữ lập trình
 🐞Web : Codepen.io Demo Online không phải cài đặt.
-
-
+🕷️Cấu trúc HTML
+lang ="en" ➡️Mã ngôn ngữ
+<meta charset="UTF-8" /> attribute charset ="UTF-8" Hỗ trợ các ngôn ngữ khác ngoài tiếng Anh
+Comment Ctr + K + C ➡️ Comment một khối ➡️ Ctr + K + U ➡️uncomment 
+MDN Web Doc ➡️Tìm hiểu thẻ
+Phân biệt Tag và Element
+Copy nhiều dòng Shift + Alt + Arrow Down
+🪲Quan trọng... Để sửa nhiều dòng cùng một lúc ➡️Nhấn giữ Alt ,nháy chuột vào vị trí muốn sửa
+🪲Nhớ lệnh rename Tag ➡️Alt +W ➡️Nếu kết hợp sửa nhiều dòng sẽ rất nhanh
+🪲Diffchecker.com ➡️So sánh Code
+🪲Copy đoạn giống nhau ➡️Nhấn Ctr +D sẽ sửa các đoạn giống nhau hàng loạt
+🪲Tìm hiểu Emmet ➡️Tìm Cheat Sheet trong Emmet.io
+🪲ul,ol,li lồng nhau
 
 
 
